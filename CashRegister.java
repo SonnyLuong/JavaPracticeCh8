@@ -49,3 +49,4 @@ public class CashRegister // Always the same as the name of the file
 		totalPrice = 0;
 	}
 }
+//Pg. 377
