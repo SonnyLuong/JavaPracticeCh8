@@ -19,10 +19,10 @@ public class CashRegister // Always the same as the name of the file
 		Adds an item to this cash register.
 		@param price the price of this item
 	*/
-	public void addIten(double price)
+	public void addItem(double price)
 	{
 		itemCount++;
-		totalPrice = totalPice + price;
+		totalPrice = totalPrice + price;
 	}
 	/**
 		Gets the price of all items in the current sale.
